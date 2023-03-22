@@ -1,0 +1,10 @@
+VALID INPUT
+Variance
+0.40614
+Skewness
+1.34920
+Curtosis
+-1.4501
+Entropy
+-0.55949
+
